@@ -14,8 +14,8 @@ var lightbox = new SimpleLightbox('.gallery a', { captionDelay: 250, captionsDat
 const iziToastParameters = {
     messageSize: "16px",
     messageColor: "#FAFAFB",
-    backgroundColor: "#EF4040",
-    iconUrl: "img/octagon.png",
+    backgroundColor: "#EF4040",    
+    iconUrl: "https://site-assets.fontawesome.com/releases/v6.7.2/svgs/sharp-light/octagon-xmark.svg",
     iconColor: "#FAFAFB",
     maxWidth: 432,  
     messageLineHeight: "24px",
