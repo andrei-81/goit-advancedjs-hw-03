@@ -15,7 +15,7 @@ const iziToastParameters = {
     messageSize: "16px",
     messageColor: "#FAFAFB",
     backgroundColor: "#EF4040",
-    iconUrl: '../img/octagon.png',
+    iconUrl: "../img/octagon.png",
     iconColor: "#FAFAFB",
     maxWidth: 432,  
     messageLineHeight: "24px",
